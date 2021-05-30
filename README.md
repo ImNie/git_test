@@ -1,1 +1,1 @@
-# git_test
+This is Nie first git project!
